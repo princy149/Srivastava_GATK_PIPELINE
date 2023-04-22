@@ -10,7 +10,7 @@
 #SBATCH --output=FIBR_STAR_refine_filter.out.txt
 #SBATCH --export=All
 #SBATCH --mail-type=END 
-#SBATCH --mail-user=mv323@exeter.ac.uk
+#SBATCH --mail-user=email.id
 
 ### Script to filter and refine vcfs ###
 
